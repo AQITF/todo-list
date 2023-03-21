@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "homepage": "https://renascence.top/todo-list",
+  "homepage": "https://aqitf.github.io/todo-list/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
